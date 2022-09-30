@@ -1,7 +1,7 @@
 '''Test'''
 import unittest
 
-from unique_characters import is_unique
+from src.unique_characters import is_unique
 
 
 class TestIsUnique(unittest.TestCase):
