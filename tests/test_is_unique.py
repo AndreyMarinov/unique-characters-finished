@@ -5,7 +5,7 @@ from src.unique_characters import is_unique
 
 
 class TestIsUnique(unittest.TestCase):
-    '''Test if the characters in one strings are unique'''
+    '''Test that checks if the characters in one strings are unique'''
 
     def test_is_unique(self):
         '''Check if the characters are unique'''
